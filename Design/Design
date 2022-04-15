@@ -1,1 +1,19 @@
+CLASS DIAGRAM
+
+The class diagram gives you the structure of the system. It shows the relationship between classes and objects and how they make up the system. 
+The class model is for the use case placing an order. The diagram shows every class that is needed to place an order and how each class relates with each other. 
+It shows how Order class is associated and communicates with other classes like the customer class, order status, and so on.
+
+
+SEQUENCE DIAGRAM
+
+The sequence diagram is a type of behavioural model. It shows how objects and classes interact with each other in a time- ordered way. 
+The sequence diagram above shows how classes interact with each other in placing an order.
+
+STATE DIAGRAM
+
+The state diagram is another type of behavioural system. It shows the behaviour or state of an object when it reacts to a series of events. 
+The diagram shows the state diagram for placing an order. We can see the state of the system, when events happen. 
+Such as when the search for an item, the system displays that item. That is the state of the system.
+
 
