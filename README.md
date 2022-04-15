@@ -8,6 +8,7 @@ Scope of the project
 As mentioned above, this project is set to build an online fashion shopping website - Stellar Wears. It is a website that will cater to the needs of the younger generation in terms of affordability, inclusivity and keeping up with the latest trends. The goal that we want to achieve with this project is an all-in-one online shopping environment for the public to make purchases that meet their needs and wants in the comfort of their homes. The pandemic started with a massive blow on the economy and community, shutting down stores and commercial places. This fueled the need to create this online marketplace. We want to put the safety of the public first, then their desires next. We plan to accomplish this project with the help of our stakeholders, which include but are not limited to the facilitator, the Software developer and inputs from the customer and end-users.
 
 
+
 Table of Contents
 
 1. Code
